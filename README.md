@@ -1,4 +1,5 @@
-# 👨‍💻 Cesário Alves  **Frontend Developer | UI/UX Designer**
+# 👨‍💻 Cesário Alves  
+**Frontend Developer | UI/UX Designer**
 
 ---
 
