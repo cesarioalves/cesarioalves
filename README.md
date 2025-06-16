@@ -19,12 +19,12 @@ I am a Frontend Developer with over 15 years of experience specializing in PHP, 
 ## 💼 Professional Experience  
 
 - **Frontend Developer / Graphic Design**  
-  *Bsolus - Business Solutions, Lda (2021–Present)*  
+  *Bsolus - Business Solutions, Lda (2011–Present)*  
   - Worked on design, editing, and PHP programming, with a focus on Volt, CSS,JS, HTML, and responsive design.
   - Applied Scrum methodologies to ensure effective project delivery.
 
 - **Graphic Design**  
-  *Edigma (2020)*  
+  *Edigma (2010)*  
   - Focused on design, creating magazines, logos, manuals, and websites.  
 
 ---
