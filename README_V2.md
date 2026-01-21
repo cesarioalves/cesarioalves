@@ -45,8 +45,8 @@ Transformo conceitos complexos em interfaces de alta performance. Com um mindset
 
 ## 📊 Engineering Metrics
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-git-master-cesarioalves-projects.vercel.app/api?username=cesarioalves&show=reviews,prs_merged,prs_merged_percentage,contribs,prs&hide=issues,stars,discussions_started,discussions_answered&show_icons=true&rank_icon=github&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&count_private=true&commits_year=2025" alt="Cesario's GitHub Stats" />
-  <img height="190em" src="https://github-readme-stats-git-master-cesarioalves-projects.vercel.app/api/top-langs/?username=cesarioalves&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&commits_year=2025" alt="Top Languages" />
+  <img height="190em" src="https://github-readme-stats-roan-seven-53.vercel.app/api?username=cesarioalves&show=reviews,prs_merged,prs_merged_percentage,contribs,prs&hide=issues,stars,discussions_started,discussions_answered&show_icons=true&rank_icon=github&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&count_private=true&commits_year=2025" alt="Cesario's GitHub Stats" />
+  <img height="190em" src="https://github-readme-stats-roan-seven-53.vercel.app/api/top-langs/?username=cesarioalves&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&commits_year=2025" alt="Top Languages" />
 </p>
 
 > 💡 **Nota:** As métricas acima incluem contribuições privadas em ambiente corporativo (Bsolus), refletindo meu compromisso diário com a excelência técnica.
