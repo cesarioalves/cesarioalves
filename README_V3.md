@@ -45,9 +45,8 @@ Com 15 anos de experiência, não apenas escrevo código; eu projeto sistemas. A
 ## 📊 Statement of Impact (Real-time Metrics)
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=cesarioalves&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="Stats" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarioalves&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" />
-</p>
+  <img height="190em" src="https://github-readme-stats-git-master-cesarioalves-projects.vercel.app/api?username=cesarioalves&show=reviews,prs_merged,prs_merged_percentage,contribs,prs&hide=issues,stars,discussions_started,discussions_answered&show_icons=true&rank_icon=github&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&count_private=true&commits_year=2025" alt="Cesario's GitHub Stats" />
+  <img height="190em" src="https://github-readme-stats-git-master-cesarioalves-projects.vercel.app/api/top-langs/?username=cesarioalves&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&commits_year=2025" alt="Top Languages" /></p>
 
 > ⚠️ **Nota de Transparência:** Devido ao volume de **2.944 contribuições** serem realizadas majoritariamente em repositórios privados da **Bsolus**, os gráficos acima podem sofrer atrasos de sincronização da API do GitHub. Minha atividade é diária e focada em entregas de produção.
 
