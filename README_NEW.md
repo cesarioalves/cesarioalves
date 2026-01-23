@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/Status-2.9k+_Contributions-2ebc4f?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Expertise-Fullstack_Developer_&_UI/UX_Designer-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tech-React_/_PHP_/_Volt_/_JS-8892bf?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/15_Years-orange?style=for-the-badge" />
-
 </p>
 
 ---
@@ -17,17 +15,19 @@ Com 15 anos de experiência, não apenas escrevo código; eu projeto sistemas. A
 - 🎨 **Design Engineering:** Especialista em criar Design Systems que unem Figma ao código real.
 - ⚙️ **Performance Mindset:** Foco em Core Web Vitals, acessibilidade e SEO.
 - 🤖 **Automation:** Entusiasta de n8n e IA para otimizar fluxos de trabalho criativos.
+- 💎 **Visual Philosophy:** Pixel-perfection, acessibilidade e usabilidade.
+- 💹 **Fintech & Trading:** Skilled in **TradingView API**, **Chart.js**, and complex data visualization.
 
 ---
 
-## 🛠️ Expertise Box (2026 Edition)
+## 🛠️ Expertise Box
 
-| 🌐 Frontend Core | 🎨 Creative Stack | 🔌 Systems & Ops |
+| 🌐 Frontend Core | 🎨 Creative Stack | 🔌 Automation & Tools |
 | :--- | :--- | :--- |
 | **React / Next.js / JS ES15+** | **Figma / Adobe Suite** | **n8n Automation** |
-| **PHP / Volt Engine** | UI & UX Design Systems | Docker / CI/CD |
+| **PHP / Volt Engine** | UI & UX Design Systems | Git / Docker / Scrum / CI/CD Pipelines |
 | Tailwind / Sass / CSS4 | Motion & Interaction | Scrum / Agile Lead |
-| Responsive & Mobile First | Prototipagem de Alta Fid. | MySQL / Data Architecture |
+| Responsive & Mobile First | Graphic & Editorial | MySQL / Data Architecture |
 
 ---
 
@@ -50,15 +50,15 @@ Com 15 anos de experiência, não apenas escrevo código; eu projeto sistemas. A
   <img height="190em" src="https://github-readme-stats-roan-seven-53.vercel.app/api?username=cesarioalves&show=reviews,prs_merged,prs_merged_percentage,contribs,prs&hide=issues,stars,discussions_started,discussions_answered&show_icons=true&rank_icon=github&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&count_private=true&commits_year=2025" alt="Cesario's GitHub Stats" />
   <img height="190em" src="https://github-readme-stats-roan-seven-53.vercel.app/api/top-langs/?username=cesarioalves&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&commits_year=2025" alt="Top Languages" /></p>
 
-> ⚠️ **Nota de Transparência:** Devido ao volume de **2.944 contribuições** serem realizadas majoritariamente em repositórios privados da **Bsolus**, os gráficos acima podem sofrer atrasos de sincronização da API do GitHub. Minha atividade é diária e focada em entregas de produção.
+> ⚠️ **Nota:** As métricas acima incluem contribuições privadas em ambiente corporativo (Bsolus), refletindo meu compromisso diário com a excelência técnica.
 
 ---
 
-## 🎓 Background
-* **BSc Design Gráfico - Multimédia** (EPB)
+## 🎓 Education & Evolution
+* **Bachelor’s Degree in Graphic Design & Multimedia** (Escola Profissional de Braga)
 * **Expert em Ecossistema React** (Udemy / Advanced Cert.)
 * **PHP Fullstack Development** (EPB)
-
+* **Modelador BIM** (EPB)
 ---
 
 ## 🤝 Let's Design the Future
@@ -66,6 +66,8 @@ Estou sempre aberto a trocar ideias sobre automação, design systems e o futuro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cesarioalves)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-D14836?style=for-the-badge&logo=gmail)](https://forms.gle/v1Xm41P6tSUskdEz5)
+[![CodePen](https://img.shields.io/badge/CodePen-Explore_Projects-3a3b42?style=for-the-badge&logo=codepen)](https://codepen.io/cesarioalves)
+
 - **Status:** *Open for high-impact collaborations.*
 
 ---
