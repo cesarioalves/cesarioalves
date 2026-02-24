@@ -1,5 +1,5 @@
-# 👨‍💻 Hi, I'm Cesário Alves
-### **Frontend Developer • Designer UI/UX Specialist • Design Systems & AI-assisted Development**
+<h1 align="center">Hi, I'm Cesário Alves 👋</h1>
+<h3 align="center">Frontend Developer • UI/UX Designer • Design Systems & AI-assisted Development</h3>
 
 <p align="center">
   <strong>15+ years bridging pixel-perfect design with scalable code • Obsessed with performance, accessibility, intelligent AI workflows, and fintech UIs</strong>
