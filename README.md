@@ -22,17 +22,22 @@ With 15+ years of experience, I don't just code — I architect systems at the i
 - 💎 **Visual Excellence** — Pixel-perfection, usability, motion & interaction design
 - 📈 **Fintech & Data Viz** — TradingView API, Chart.js, advanced charting and trading interfaces
 
+
 ---
+
 
 ## 🛠️ Expertise Box
 
 | 🌐 Frontend Core | 🎨 Creative Stack | 🔌Tools | 🤖 AI & Automation
 | :--- | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) / JS ES15+** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) / Adobe Suite** | ![n8n](https://img.shields.io/badge/n8n%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white)| ![Claude](https://img.shields.io/badge/Claude-Anthropic-%238B5CF6?style=flat&logo=anthropic&logoColor=white) 
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) / ![Volt Engine](https://img.shields.io/badge/Volt%20Engine-00C853?style=flat) | UI & UX Design Systems | Git / ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)) / Scrum / CI/CD Pipelines | ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-%2300A67E?style=flat&logo=openai&logoColor=white)
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) / Sass / CSS4 | Motion & Interaction | Scrum / Agile Lead | ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot)
-| Responsive & Mobile First | Graphic & Editorial | MySQL / Data Architecture | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe CC](https://img.shields.io/badge/Adobe%20Suite-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n%20Automation-EA4B71?style=flat&logo=n8n&logoColor=white)| ![Claude](https://img.shields.io/badge/Claude-Anthropic-%238B5CF6?style=flat&logo=anthropic&logoColor=white) 
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  ![Volt Engine](https://img.shields.io/badge/Volt%20Engine-00C853?style=flat) | ![UX/UI Architecture](https://img.shields.io/badge/UI_&_UX_Design_Systems-0EA5E9?style=flat) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-0A0A0A?style=flat&logo=githubactions&logoColor=white) | ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-%2300A67E?style=flat&logo=openai&logoColor=white)
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![CSS4](https://img.shields.io/badge/CSS4-1572B6?style=flat&logo=css3&logoColor=white) |  ![Motion](https://img.shields.io/badge/Motion_&_Interaction-EC4899?style=flat) | ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat) ![Agile](https://img.shields.io/badge/Agile_Lead-22C55E?style=flat) | ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot)
+|  ![Responsive](https://img.shields.io/badge/Responsive-0EA5E9?style=flat) ![Mobile First](https://img.shields.io/badge/Mobile_First-14B8A6?style=flat)  | ![Graphic Design](https://img.shields.io/badge/Graphic_Design-F59E0B?style=flat) ![Editorial](https://img.shields.io/badge/Editorial-8B5CF6?style=flat) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Data Architecture](https://img.shields.io/badge/Data_Architecture-334155?style=flat) | ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+
+
 ---
+
 
 ## 💼 Professional Trajectory
 
@@ -52,7 +57,9 @@ With 15+ years of experience, I don't just code — I architect systems at the i
 **Graphic Designer**
 > Editorial design, branding and digital interfaces
 
+
 ---
+
 
 ## 📊 Statement of Impact (Real-time Metrics)
 
